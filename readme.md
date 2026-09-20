@@ -10,7 +10,6 @@ Security researcher focused on **Advanced Threat Research, Malware Analysis, and
 - DFIR
 - Detection Engineering
 - Vulnerability Research
-- Cloud Security
 - Security Automation
 
 ## Current Project
